@@ -1,0 +1,13 @@
+:root {
+  --primary: #009379;
+  --primary-tint: #e5f4f2;
+  --primary-tint2: #29d2bb;
+  --secondary: #ff6250;
+  --secondary-tint: #f2bfaf;
+  --white: #f8f9ff;
+  --white-tint: #fff;
+  --grey: #2d2d2d;
+  --grey-tint: #c6c6c6;
+  --grey-tint-2: #3e3e3e;
+  --black: #2d2d2d;
+}
