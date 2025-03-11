@@ -42,6 +42,9 @@ header .navbar {
   color: var(--primary-tint2);
 }
 
+.nav-item-secondary{
+  margin-right: 2rem;
+
 .button-icon {
   width: 1.6rem;
 }
